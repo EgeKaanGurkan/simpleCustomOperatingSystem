@@ -3,7 +3,7 @@ I have been getting into chip level programming recently and wanted to get my ha
 
 ## Description
 
-This is a simple custom operating system that is crudely names "egeOS"
+This is a simple custom operating system that is crudely named "egeOS"
 
 ### Progress
 
